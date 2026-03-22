@@ -91,13 +91,6 @@ Top important features:
 - Scikit-learn  
 - Matplotlib, Seaborn  
 
----
-
-## 📌 Future Work
-- Try advanced clustering (DBSCAN, Hierarchical)  
-- Validate with real labels (if available)  
-- Deploy as a healthcare prediction system  
-
 
 
 
