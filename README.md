@@ -98,8 +98,6 @@ Top important features:
 - Validate with real labels (if available)  
 - Deploy as a healthcare prediction system  
 
----
 
-## 👤 Author
-**Duc Tran**  
-Data Science & Machine Learning Enthusiast
+
+
